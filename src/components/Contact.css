@@ -1,0 +1,33 @@
+.contact {
+    
+    display: flex;
+    flex-direction: row;
+    /* background-color: #99d4e7; */
+    background : rgba(15, 6, 90, 0.207);
+    padding: 10px 10px 10px 10px;
+    border: 20px solid #F7E2D6;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50px;
+    
+    
+  }
+.item{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    align-items: center;
+    
+}
+.imgProfile{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px 5px 5px 5px; 
+    width: 150px;
+    border-radius: 50%;
+    align-items: left;
+    display: flex;  
+    
+    
+}
+  
